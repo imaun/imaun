@@ -25,5 +25,5 @@ I develop websites & web services for living and coding is my hobby.
 I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
