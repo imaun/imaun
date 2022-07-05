@@ -14,7 +14,7 @@
 </p>
 
 ---
-- 💎 I'm a Software Engineer, Team Leader & Player, 10 years in the industry.
+- 💎 I'm a Software Engineer, Team Leader & Player with more than 12 years of professional experience.
 - 🏦 I've worked in Payment & banking industry for 5 years.
 - 💻 Back-end developer (.NET CORE, Python, NodeJs)
 - 🔭 I'm currently working on [Behlog](https://github.com/imaun/behlog), a CMS to build websites, blogs & eCommerce.
