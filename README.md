@@ -17,8 +17,8 @@
 - 💎 I'm a Software Engineer, Team Leader & Player with more than 12 years of professional experience.
 - 🏦 I've worked in Payment & banking industry for 5 years.
 - 💻 Back-end developer (.NET CORE, Python, NodeJs)
-- 🔭 I'm currently working on [Behlog](https://github.com/imaun/behlog), a CMS to build websites, blogs & eCommerce.
-- 🤔 I'm lookig for help on [Behlog](https://github.com/imaun/behlog) for front-end, specially admin panel.
+- 🔭 I'm currently working on a Crypto-Currency exchange project and learn about blockchain technologies.
+- 🤔 Ask me anything about .NET, C#, Python
 - 📧 Reach me by email: hi at imaun.ir
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
 ---
