@@ -39,21 +39,7 @@ I love creating usefull tools and APIs in my spare time. You can access all of m
 <p align="left">
     <a href="https://github.com/imaun/idyfa">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=idyfa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Idyfa User Management Library">
-    </a>
-
-    <a href="https://github.com/imaun/paymun"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=paymun&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Payment library for Iranian IPC providers."></a>
-
-    <a href="https://github.com/behlog/cms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=idyfa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Behlog CMS library"></a>
-
-    <a href="https://github.com/imaun/coinmarketcap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=coinmarketcap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CoinMarketCap API Client for .NET"></a>
-
-    <a href="https://github.com/imaun/pardakhtyari"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=pardakhtyari&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pardakhtyar Library for .NET"></a>
-
-    <a href="https://github.com/imaun/emojifa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=emojifa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Emojis Library for .NET"></a>
-
-    <a href="https://github.com/imaun/vscode-mutliple-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=vscode-mutliple-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="How to run and debug multiple projects in VsCode."></a>
-
-
+    </a><a href="https://github.com/imaun/paymun"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=paymun&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Payment library for Iranian IPC providers."></a><a href="https://github.com/behlog/cms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=idyfa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Behlog CMS library"></a><a href="https://github.com/imaun/coinmarketcap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=coinmarketcap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CoinMarketCap API Client for .NET"></a><a href="https://github.com/imaun/pardakhtyari"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=pardakhtyari&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pardakhtyar Library for .NET"></a><a href="https://github.com/imaun/emojifa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=emojifa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Emojis Library for .NET"></a><a href="https://github.com/imaun/vscode-mutliple-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=vscode-mutliple-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="How to run and debug multiple projects in VsCode."></a>
 </p>
 </details>
 
