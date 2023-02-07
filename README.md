@@ -33,8 +33,9 @@ I love creating usefull tools and APIs in my spare time. You can access all of m
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
+
 ---
-<h1> My Open-source Projects</h2>
+<h1>💻 My Open-source Projects</h2>
 <details open>
 <p align="left">
     <a href="https://github.com/imaun/idyfa">
@@ -58,12 +59,12 @@ I love creating usefull tools and APIs in my spare time. You can access all of m
 </p>
 </details>
 
-<h1>🤖 Profile Views </h1>
+<h3>🤖 Profile Views </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaun&label=Profile%20views&color=0e75b6&style=flat" alt="imaun" /> </p>
 
 </br>
-<h1 align="left">🎯  Github Stats</h1>
+<h2 align="left">🎯  Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imaun" /></p>
 
