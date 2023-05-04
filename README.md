@@ -4,35 +4,26 @@
 </p>
 <h3>My friends call me imun!</h3>
 <h2>ایمان نعمتی</h2>
-<p align="center"> 
- <a href="https://twitter.com/intent/follow?screen_name=imanpad" alt="Follow me on Twitter">
-   <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fimanpad" />
- </a>
- <a href="https://www.linkedin.com/in/inemati/" alt="Connect via LinkedIn">
-   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
- </a>
- <a href="https://t.me/imuan" alt="Contact on Telegram">
-   <img src="https://img.shields.io/badge/-@imuan-0072b1?style=social&logo=Telegram&logoColor=white" />
- </a>
-</p>
-
 ---
-```
+# 💫 About Me:
 - 💎 I'm a Software Engineer, Team Leader & Player with more than 12 years of professional experience.
 - 🏦 I've worked in Payment & banking industry for 5 years.
 - 💻 Back-end developer (.NET C#, Python, JavaScript)
 - 🔭 I'm currently working on a Crypto-Currency exchange project and learn about blockchain technologies.
 - 🤔 Ask me anything about .NET, C#, Python, Microservices, CQRS
-- 📧 Reach me by email: hi at imaun.ir
+- 📧 Reach me by email: hi at imaun.ir 
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
----
-I develop websites & web services for living and coding is my hobby. 
-I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
-```
+- I develop websites & web services for living and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imun22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inemati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imanpad) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 <h1>💻 My Open-source Projects</h2>
@@ -59,18 +50,28 @@ I love creating usefull tools and APIs in my spare time. You can access all of m
 </p>
 </details>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imaun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imaun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imaun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=imanpad)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+
 <h3>🤖 Profile Views </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaun&label=Profile%20views&color=0e75b6&style=flat" alt="imaun" /> </p>
-
-</br>
-<h2 align="left">🎯  Github Stats</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imaun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&locale=en&theme=tokyonight" alt="imaun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imaun&" alt="imaun" /></p>
 
 
 
