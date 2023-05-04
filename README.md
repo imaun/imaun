@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Iman 👋</h1>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Iman+Nemati+;Software+Developer" alt="Iman Nemati" />
 </p>
