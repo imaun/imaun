@@ -14,10 +14,6 @@
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
 - I develop websites & web services for living and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaun&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imun22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inemati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imanpad) 
 
