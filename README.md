@@ -10,9 +10,9 @@
 - 💻 Back-end developer (.NET C#, Python, JavaScript)
 - 🔭 I'm currently working on a Crypto-Currency exchange project and learn about blockchain technologies.
 - 🤔 Ask me anything about .NET, C#, Python, Microservices, CQRS
-- 📧 Reach me by email: hi at imaun.ir 
+- 📧 Reach me by email: imun22 at gmail
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
-- I develop websites & web services for living and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
+- I work for a software company for living, and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imun22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inemati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imanpad) 
@@ -33,8 +33,8 @@
     <a href="https://github.com/imaun/hacker-rank">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=hacker-rank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Some of my answers to HackerRank challenges">
     </a>
-    <a href="https://github.com/imaun/ramzgram">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=ramzgram&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="A telegram bot that generates random passwords for you">
+    <a href="https://github.com/imaun/nl-find-house">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=nl-find-house&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crawler to find a proper house in the Netherlands">
     </a>
     <a href="https://github.com/imaun/datefa">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=datefa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Datef is a simple web app that let you create Persian calendar MonthView on any websites">
