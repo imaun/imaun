@@ -36,7 +36,6 @@
     <a href="https://github.com/imaun/hacker-rank">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=hacker-rank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Some of my answers to HackerRank challenges">
     </a>
-    
     <a href="https://github.com/imaun/datefa">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=datefa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Datef is a simple web app that let you create Persian calendar MonthView on any websites">
     </a>
