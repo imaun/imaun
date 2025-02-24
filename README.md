@@ -9,7 +9,7 @@
 - 🏦 I've worked in Payment & banking industry for 5 years.
 - 💻 Back-end developer (.NET C#, Python, TypeScript)
 - 🌐 DevOps experiences with gitlab, github and Azure
-- 🔭 I'm currently working on [a Chrome Extension to Translate text using AI](https://github.com/imaun/langshift) & Also [a GitHub Action to automate any files Translations in pipelines](https://github.com/imaun/gpt-translate-action)Microservices, CQRS
+- 🔭 I'm currently working on [a Chrome Extension to Translate text using AI](https://github.com/imaun/langshift) & Also [a GitHub Action to automate any files Translations in pipelines](https://github.com/imaun/gpt-translate-action)
 - 📧 Reach me by email: imun22 at gmail
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
 - I work for a software company for living, and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
