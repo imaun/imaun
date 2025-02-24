@@ -5,11 +5,11 @@
 <h2>ایمان نعمتی</h2>
 
 # 💫 About Me:
-- 💎 I'm a Software Engineer, Team Leader & Player with more than 12 years of professional experience.
+- 💎 I'm a Software Engineer with more than 15 years of professional experience.
 - 🏦 I've worked in Payment & banking industry for 5 years.
-- 💻 Back-end developer (.NET C#, Python, JavaScript)
-- 🔭 I'm currently working on a Crypto-Currency exchange project and learn about blockchain technologies.
-- 🤔 Ask me anything about .NET, C#, Python, Microservices, CQRS
+- 💻 Back-end developer (.NET C#, Python, TypeScript)
+- 🌐 DevOps experiences with gitlab, github and Azure
+- 🔭 I'm currently working on [a Chrome Extension to Translate text using AI](https://github.com/imaun/langshift) & Also [a GitHub Action to automate any files Translations in pipelines](https://github.com/imaun/gpt-translate-action)Microservices, CQRS
 - 📧 Reach me by email: imun22 at gmail
 - 🔗 Follow me on Twitter [@imanpad](https://twitter.com/intent/follow?screen_name=imanpad) and [LinkedIn](https://www.linkedin.com/in/inemati)
 - I work for a software company for living, and coding is my hobby. <br>I love creating usefull tools and APIs in my spare time. You can access all of my open-source works here.
@@ -28,6 +28,7 @@
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=catdocs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="OpenAPI Specification tool - Load, Validate, Split, and Build OpenAPI documents with ease!">
     </a>
     <a href="https://github.com/imaun/gpt-translate-action"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=gpt-translate-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Translate any files to any languages with ChatGPT, then commit & push back to the github repository"></a>
+     <a href="https://github.com/imaun/langshift"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=langshift&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI LangShift - A lightweight Chrome extension that translates selected text instantly using OpenAI’s ChatGPT"></a>
     <a href="https://github.com/imaun/idyfa">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=idyfa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Idyfa User Management Library">
     </a><a href="https://github.com/imaun/paymun"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=paymun&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Payment library for Iranian IPC providers."></a><a href="https://github.com/behlog/cms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=behlog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Behlog CMS library"></a><a href="https://github.com/imaun/coinmarketcap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=coinmarketcap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CoinMarketCap API Client for .NET"></a><a href="https://github.com/imaun/pardakhtyari"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=pardakhtyari&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pardakhtyar Library for .NET"></a><a href="https://github.com/imaun/emojifa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=emojifa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Emojis Library for .NET">
@@ -40,9 +41,6 @@
     </a>
     <a href="https://github.com/imaun/datefa">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=datefa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Datef is a simple web app that let you create Persian calendar MonthView on any websites">
-    </a>
-    <a href="https://github.com/imaun/movie-recommendations">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imaun&repo=movie-recommendations&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculates similarity of movies based on tags and categories.">
     </a>
 </p>
 </details>
